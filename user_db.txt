@@ -1,0 +1,126 @@
+User1
+pw111
+Student1
+M
+7 5 4 6
+12 1 5
+7 6 5
+6
+
+User24
+pw888
+Student8
+F
+6 7 5 5
+4 6 3
+5 5 4
+6
+
+User3456435634
+pw888
+Student8
+F
+6 7 5 5
+4 6 3
+5 5 4
+6
+
+User353245
+pw888
+Student8
+F
+6 7 5 5
+4 6 3
+5 5 4
+6
+
+User4
+pw444
+Student 4
+F
+5 6 3 7
+0 1 2
+0 2 5
+6
+
+User5
+pw555
+Student5
+F
+5 5 7 7
+12 10 11
+4 2 4
+6
+
+User6
+pw666
+Student6
+M
+7 1 5 4
+12 2 1
+7 7 7
+6
+
+User7
+pw777
+Student7
+M
+4 5 3 7
+12 9 8
+3 4 3
+6
+
+User8
+pw888
+Student8
+F
+6 7 5 5
+4 6 3
+5 5 4
+6
+
+User85434353
+pw888
+Student8
+F
+6 7 5 5
+4 6 3
+5 5 4
+6
+
+asdfsdfawewer
+sadfsdfas
+asfsfewerwdfx
+M
+5 4 6 5
+11 8 12
+7 7 7
+6
+
+test231
+pw2374
+adfaasda
+M
+7 6 4 4
+4 9 6
+5 3 5
+6
+
+usee456456
+pw111
+Student1
+M
+7 6 5 6
+12 10 11
+7 7 6
+6
+
+usee456456
+pw888
+Student8
+F
+6 7 5 5
+4 6 3
+5 5 4
+6
+

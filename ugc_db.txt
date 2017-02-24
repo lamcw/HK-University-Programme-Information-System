@@ -1,0 +1,864 @@
+HKU
+JS6004
+UGC-funded
+BA(AS)
+Bachelor of Arts in Architectural Studies
+29
+Best 5
+
+HKU
+JS6016
+UGC-funded
+BSC(SURV)
+Bachelor of Science in Surveying
+29
+Best 5
+
+HKU
+JS6028
+UGC-funded
+BA(LS)
+Bachelor of Arts in Landscape Studies
+27
+Best 5
+
+HKU
+JS6030
+UGC-funded
+BA(Conservation)
+Bachelor of Arts in Conservation
+26
+Best 5
+
+HKU
+JS6042
+UGC-funded
+BA(US)
+Bachelor of Arts in Urban Studies
+27
+Best 5
+
+HKU
+JS6054
+UGC-funded
+BA
+Bachelor of Arts
+25
+Best 5
+
+HKU
+JS6066
+UGC-funded
+BA&BED(LangEd)-Eng
+Bachelor of Arts and Bachelor of Education in Language Education - English (double degree)
+27
+4C+2X
+
+HKU
+JS6078
+UGC-funded
+BA(Literary Studies)&LLB
+Bachelor of Arts in Literary Studies and Bachelor of Laws (double degree)
+34
+4C+2X
+
+HKU
+JS6080
+UGC-funded
+BA&BED(LangEd)-Chin
+Bachelor of Arts and Bachelor of Education in Language Education - Chinese (double degree)
+28
+4C+2X
+
+HKU
+JS6107
+UGC-funded
+BDS
+Bachelor of Dental Surgery
+36
+4C+2X
+
+HKU
+JS6119
+UGC-funded
+BED&BSC
+Bachelor of Education and Bachelor of Science (double degree)
+26
+Best 5
+
+HKU
+JS6157
+UGC-funded
+BSC(SPEECH)
+Bachelor of Science in Speech and Hearing Sciences
+35
+4C+2X
+
+HKU
+JS6183
+UGC-funded
+BSC(Exercise&Health)
+Bachelor of Science in Exercise and Health
+24
+Best 5
+
+HKU
+JS6195
+UGC-funded
+BED&BSS
+Bachelor of Education and Bachelor of Social Sciences (double degree)
+25
+Best 5
+
+HKU
+JS6406
+UGC-funded
+LLB
+Bachelor of Laws
+35
+4C+2X
+
+HKU
+JS6456
+UGC-funded
+MBBS
+Bachelor of Medicine and Bachelor of Surgery
+39
+4C+2X
+
+HKU
+JS6468
+UGC-funded
+BNURS
+Bachelor of Nursing
+25
+Best 5
+
+HKU
+JS6482
+UGC-funded
+BChinMed
+Bachelor of Chinese Medicine
+26
+Best 5
+
+HKU
+JS6494
+UGC-funded
+BPharm
+Bachelor of Pharmacy
+36
+4C+2X
+
+HKU
+JS6717
+UGC-funded
+BSS
+Bachelor of Social Sciences
+27
+Best 5
+
+HKU
+JS6729
+UGC-funded
+BSC(AC)
+Bachelor of Science in Actuarial Science
+33
+4C+2X
+
+HKU
+JS6731
+UGC-funded
+BSW
+Bachelor of Social Work
+25
+Best 5
+
+HKU
+JS6767
+UGC-funded
+BEcon/BEcon&Fin
+Bachelor of Economics / Bachelor of Economics and Finance
+30
+4C+2X
+
+HKU
+JS6781
+UGC-funded
+BBA/BBA(Acc&Fin)
+Bachelor of Business Administration / Bachelor of Business Administration in Accounting and Finance
+31
+4C+2X
+
+HKU
+JS6793
+UGC-funded
+BBA(IS)
+Bachelor of Business Administration (Information Systems)
+29
+4C+2X
+
+HKU
+JS6808
+UGC-funded
+BBA(Law)&LLB
+Bachelor of Business Administration (Law) and Bachelor of Laws (double degree)
+36
+4C+2X
+
+HKU
+JS6810
+UGC-funded
+BSS(GL)&LLB
+Bachelor of Social Sciences (Government and Laws) and Bachelor of Laws (double degree)
+35
+4C+2X
+
+HKU
+JS6822
+UGC-funded
+BJ
+Bachelor of Journalism
+26
+Best 5
+
+HKU
+JS6884
+UGC-funded
+BSc(QFin)
+Bachelor of Science in Quantitative Finance
+33
+4C+2X
+
+HKU
+JS6896
+UGC-funded
+BBA(IBGM)
+Bachelor of Business Administration (International Business and Global Management)
+37
+4C+2X
+
+HKU
+JS6901
+UGC-funded
+BSC
+Bachelor of Science
+28
+Best 5
+
+HKU
+JS6949
+UGC-funded
+BBiomedSc
+Bachelor of Biomedical Sciences
+35
+4C+2X
+
+HKU
+JS6951
+UGC-funded
+BENG(EngSc)
+Bachelor of Engineering in Engineering Science
+28
+Best 5
+
+HKU
+JS6963
+UGC-funded
+BENG
+Bachelor of Engineering
+26
+Best 5
+
+HKUST
+JS5100
+UGC-funded
+SSCI
+Science
+23
+N/A
+
+HKUST
+JS5101
+UGC-funded
+IRE
+International Research Enrichment
+34
+N/A
+
+HKUST
+JS5200
+UGC-funded
+SENG
+Engineering
+24
+N/A
+
+HKUST
+JS5300
+UGC-funded
+B&M
+Business and Management
+23
+N/A
+
+HKUST
+JS5311
+UGC-funded
+ECON
+BBA Economics
+-1
+N/A
+
+HKUST
+JS5312
+UGC-funded
+FINA
+BBA Finance
+-1
+N/A
+
+HKUST
+JS5313
+UGC-funded
+GBUS
+BBA Global Business
+33
+N/A
+
+HKUST
+JS5314
+UGC-funded
+IS
+BBA Information Systems
+-1
+N/A
+
+HKUST
+JS5315
+UGC-funded
+MGMT
+BBA Management
+-1
+N/A
+
+HKUST
+JS5316
+UGC-funded
+MARK
+BBA Marketing
+-1
+N/A
+
+HKUST
+JS5317
+UGC-funded
+OM
+BBA Operations Management
+-1
+N/A
+
+HKUST
+JS5318
+UGC-funded
+ACCT
+BBA Professional Accounting
+-1
+N/A
+
+HKUST
+JS5331
+UGC-funded
+ECOF
+BSc Economics and Finance
+-1
+N/A
+
+HKUST
+JS5332
+UGC-funded
+QFIN
+BSc Quantitative Finance
+-1
+N/A
+
+HKUST
+JS5411
+UGC-funded
+GCS
+BSc Global China Studies: Humanities and Social Science
+23
+N/A
+
+HKUST
+JS5811
+UGC-funded
+BIBU
+BSc Biotechnology and Business
+-1
+N/A
+
+HKUST
+JS5812
+UGC-funded
+EVMT
+BSc Environmental Management and Technology
+-1
+N/A
+
+HKUST
+JS5813
+UGC-funded
+MAEC
+BSc Mathematics and Economics
+-1
+N/A
+
+HKUST
+JS5814
+UGC-funded
+RMBI
+BSc Risk Management and Business Intelligence
+-1
+N/A
+
+HKUST
+JS5901
+UGC-funded
+T&M-DDP
+BEng/BSc & BBA Dual Degree Program in Technology and Management
+-1
+N/A
+
+CUHK
+JS4006
+UGC-funded
+ANTHROPOLOGY
+Anthropology
+25
+Best 5
+
+CUHK
+JS4018
+UGC-funded
+CHI LANG & LIT
+Chinese Language and Literature
+27
+Best 5
+
+CUHK
+JS4020
+UGC-funded
+CULTURAL STUDIES
+Cultural Studies
+25
+Best 5
+
+CUHK
+JS4022
+UGC-funded
+CULTURAL MANAGEMENT
+Cultural Management
+25
+Best 5
+
+CUHK
+JS4032
+UGC-funded
+ENGLISH
+English
+23
+Best 5
+
+CUHK
+JS4044
+UGC-funded
+FINE ARTS
+Fine Arts
+24
+Best 5
+
+CUHK
+JS4056
+UGC-funded
+HISTORY
+History
+26
+Best 5
+
+CUHK
+JS4068
+UGC-funded
+JAPANESE STUDIES
+Japanese Studies
+25
+Best 5
+
+CUHK
+JS4070
+UGC-funded
+LINGUISTICS
+Linguistics
+27
+Best 5
+
+CUHK
+JS4082
+UGC-funded
+MUSIC
+Music
+24
+Best 5
+
+CUHK
+JS4094
+UGC-funded
+PHILOSOPHY
+Philosophy
+25
+Best 5
+
+CUHK
+JS4109
+UGC-funded
+RELIGION
+Religious Studies
+22
+Best 5
+
+CUHK
+JS4111
+UGC-funded
+THEOLOGY
+Theology
+-1
+Best 5
+
+CUHK
+JS4123
+UGC-funded
+TRANSLATION
+Translation
+29
+Best 5
+
+CUHK
+JS4202
+UGC-funded
+INTEGRATED BBA
+Integrated Bachelor of Business Administration Programme
+26
+Best 5
+
+CUHK
+JS4214
+UGC-funded
+GLOBAL BUS STUD
+Global Business Studies
+34
+Best 5
+
+CUHK
+JS4226
+UGC-funded
+HOTEL & TOUR MGT
+Hotel and Tourism Management
+25
+Best 5
+
+CUHK
+JS4236
+UGC-funded
+IFAA / QFIN
+Insurance, Financial and Actuarial Analysis / Quantitative Finance
+29
+Best 5
+
+CUHK
+JS4240
+UGC-funded
+PROF ACCOUNTANCY
+Professional Accountancy
+27
+Best 5
+
+CUHK
+JS4254
+UGC-funded
+GLEF
+Interdisciplinary Major Programme in Global Economics and Finance
+29
+Best 5
+
+CUHK
+JS4276
+UGC-funded
+QFRM
+Quantitative Finance and Risk Management Science
+32
+Best 5
+
+CUHK
+JS4288
+UGC-funded
+IBCE
+International Business and Chinese Enterprise
+31
+Best 5
+
+CUHK
+JS4329
+UGC-funded
+PHY ED, EX SCI & HEALTH
+Physical Education, Exercise Science and Health
+25
+Best 5
+
+CUHK
+JS4331
+UGC-funded
+BA (CHI) BEd (CHI EDU)
+B.A. (Chinese Language Studies) and B.Ed. (Chinese Language Education) Co-terminal Double Degree Programme
+24
+Best 5
+
+CUHK
+JS4343
+UGC-funded
+BA (ENG) BEd (ENG EDU)
+B.A. (English Studies) and B.Ed. (English Language Education)
+24
+Best 5
+
+CUHK
+JS4355
+UGC-funded
+LIBERAL STUDIES
+Liberal Studies
+23
+Best 5
+
+CUHK
+JS4361
+UGC-funded
+MATHS EDUCATION
+B.Ed. in Mathematics and Mathematics Education
+24
+Best 5
+
+CUHK
+JS4401
+UGC-funded
+ENGINEERING
+Engineering
+22
+Best 5
+
+CUHK
+JS4501
+UGC-funded
+MBChB
+Medicine (MBChB) Programme
+32
+Best 5
+
+CUHK
+JS4502
+UGC-funded
+MBChB-GPS
+Medicine (MBChB) Programme Global Physician-Leadership Stream (GPS)
+35
+Best 5
+
+CUHK
+JS4513
+UGC-funded
+NURSING
+Nursing
+26
+Best 5
+
+CUHK
+JS4525
+UGC-funded
+PHARMACY
+Pharmacy
+32
+Best 5
+
+CUHK
+JS4537
+UGC-funded
+PUBLIC HEALTH
+Public Health
+28
+Best 5
+
+CUHK
+JS4542
+UGC-funded
+CHIN MEDICINE
+Chinese Medicine
+29
+Best 5
+
+CUHK
+JS4550
+UGC-funded
+BIOMEDICAL SCIENCES
+Bachelor of Science in Biomedical Sciences
+-1
+Best 5
+
+CUHK
+JS4601
+UGC-funded
+SCIENCE
+Science
+25
+Best 5
+
+CUHK
+JS4633
+UGC-funded
+ESSC (AS / GEO)
+Earth System Science (Atmospheric Science / Geophysics)
+-1
+Best 5
+
+CUHK
+JS4682
+UGC-funded
+ENRICHMENT MATHEMATICS
+Enrichment Mathematics
+28
+Best 5
+
+CUHK
+JS4690
+UGC-funded
+THEORETICAL PHYSICS
+Enrichment Stream in Theoretical Physics
+29
+Best 5
+
+CUHK
+JS4719
+UGC-funded
+RISK MGT SCI
+Risk Management Science
+27
+Best 5
+
+CUHK
+JS4801
+UGC-funded
+SOCIAL SCIENCE
+Social Science
+27
+Best 5
+
+CUHK
+JS4812
+UGC-funded
+ARCHITECTURE
+Architectural Studies
+28
+Best 5
+
+CUHK
+JS4824
+UGC-funded
+ECONOMICS
+Economics
+25
+Best 5
+
+CUHK
+JS4836
+UGC-funded
+GEO & RES MGT
+Geography and Resource Management
+28
+Best 5
+
+CUHK
+JS4838
+UGC-funded
+URBAN STUDIES
+Urban Studies
+26
+Best 5
+
+CUHK
+JS4848
+UGC-funded
+GOV'T & PUBLIC ADMIN
+Government and Public Administration
+26
+Best 5
+
+CUHK
+JS4850
+UGC-funded
+JOURNALISM & COMMUN
+Journalism and Communication
+29
+Best 5
+
+CUHK
+JS4862
+UGC-funded
+PSYCHOLOGY
+Psychology
+29
+Best 5
+
+CUHK
+JS4874
+UGC-funded
+SOCIAL WORK
+Social Work
+26
+Best 5
+
+CUHK
+JS4886
+UGC-funded
+SOCIOLOGY
+Sociology
+26
+Best 5
+
+CUHK
+JS4892
+UGC-funded
+GLOBAL STUDIES
+Global Studies
+-1
+Best 5
+
+CUHK
+JS4895
+UGC-funded
+CON CHINA STUDIES (H)
+Contemporary China Studies (for Humanities stream)
+-1
+Best 5
+
+CUHK
+JS4896
+UGC-funded
+CON CHINA STUDIES (SS)
+Contemporary China Studies (for Social Science stream)
+-1
+Best 5
+
+CUHK
+JS4903
+UGC-funded
+LLB
+Bachelor of Laws
+29
+Best 5
+

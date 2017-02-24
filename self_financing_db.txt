@@ -1,0 +1,200 @@
+OUHK
+JS9001
+Self-financing
+BSSc (Hons) Psychology
+Bachelor of Social Sciences with Honours in Psychology
+-1
+N/A
+
+OUHK
+JS9002
+Self-financing
+BSSc (Hons) Economics
+Bachelor of Social Sciences with Honours in Applied Economics
+-1
+N/A
+
+OUHK
+JS9003
+Self-financing	
+BSSc(Hons)Poltics&PubAdm
+Bachelor of Social Sciences with Honours in Politics and Public Administration
+-1
+N/A
+
+OUHK
+JS9004
+Self-financing
+BSSc (Hons) App Soc Stud
+Bachelor of Social Sciences with Honours in Applied Social Studies
+-1
+N/A
+
+OUHK
+JS9011
+Self-financing
+BA (Hons) Chinese
+Bachelor of Arts with Honours in Chinese
+-1
+N/A
+
+OUHK	
+JS9012
+Self-financing
+BA(Hons) CreWri&FilmArts
+Bachelor of Arts with Honours in Creative Writing and Film Arts
+-1
+N/A
+
+OUHK
+JS9013
+Self-financing
+BA(Hons) LangStud & Tran
+Bachelor of Arts with Honours in Language Studies and Translation
+-1
+N/A
+
+OUHK
+JS9014
+Self-financing
+BFA (Hons) Animation VE
+Bachelor of Fine Arts with Honours in Animation and Visual Effects
+-1
+N/A
+
+OUHK
+JS9015
+Self-financing
+BFA (Hons) CinematicD
+Bachelor of Fine Arts with Honours in Cinematic Design and Photographic Digital Art
+-1
+N/A
+
+OUHK
+JS9016
+Self-financing
+BA(Hons)CreAd&MediaDesig
+Bachelor of Arts with Honours in Creative Advertising and Media Design
+-1
+N/A
+
+OUHK
+JS9017
+Self-financing
+BA (Hons) Eng & Comp Lit
+Bachelor of Arts with Honours in English and Comparative Literature
+-1
+N/A
+
+OUHK
+JS9220
+Self-financing
+BBA (Hons) Pro Acct
+Bachelor of Business Administration with Honours in Professional Accounting
+-1
+N/A
+
+OUHK
+JS9230
+Self-financing
+BBA (Hons) Business Mgt
+Bachelor of Business Administration with Honours in Business Management
+-1
+N/A
+
+OUHK
+JS9240
+Self-financing
+BBA(Hons)GB & Mktg
+Bachelor of Business Administration with Honours in Global Business and Marketing
+-1
+N/A
+
+OUHK
+JS9250
+Self-financing
+BBA(Hons)Corp Governance
+Bachelor of Business Administration with Honours in Corporate Governance
+-1
+N/A
+
+OUHK
+JS9260
+Self-financing
+BBA(Hons) BI & Analytics
+Bachelor of Business Administration with Honours in Business Intelligence and Analytics
+-1
+N/A
+
+OUHK
+JS9270
+Self-financing
+BBA (Hons) Finance
+Bachelor of Business Administration with Honours in Finance
+-1
+N/A
+
+OUHK
+JS9530
+Self-financing
+BEd(Hons)&BEngLang(Hons)
+Bachelor of Education with Honours in English Language Teaching & Bachelor of English Language Studi
+-1
+N/A
+
+OUHK
+JS9540
+Self-financing
+BEng Lang (Hons)
+Bachelor of English Language Studies with Honours
+-1
+N/A
+
+OUHK
+JS9550
+Self-financing
+BLang(Hons) Applied Chin
+Bachelor of Language Studies with Honours (Applied Chinese Language Studies)
+-1
+N/A
+
+OUHK
+JS9717
+Self-financing
+BComp(Hons)Internet Tech
+Bachelor of Computing with Honours in Internet Technology
+-1
+N/A
+
+OUHK
+JS9720
+Self-financing
+BEng(Hons)Elec & CompEng
+Bachelor of Engineering with Honours in Electronic and Computer Engineering
+-1
+N/A
+
+OUHK
+JS9740
+Self-financing
+BNursing (Hons)
+General	Bachelor of Nursing with Honours in General Health Care
+-1
+N/A
+
+OUHK
+JS9750
+Self-financing
+BNursing (Hons) Mental
+Bachelor of Nursing with Honours in Mental Health Care
+-1
+N/A
+
+OUHK
+JS9760
+Self-financing
+BSc (Hons) Test & Cert
+Bachelor of Science with Honours in Testing and Certification
+-1
+N/A
+

@@ -1,0 +1,120 @@
+CIHE
+JSSA01
+SSSDP
+BN (Hons)
+Bachelor of Nursing (Honours)
+-1
+N/A
+
+CHC
+JSSC02
+SSSDP
+B.Sc (Hons) in Arch
+Bachelor of Science (Honours) in Architecture
+-1
+N/A
+
+HSMC
+JSSH01
+SSSDP
+BBA-SCM
+Bachelor of Business Administration (Honours) in Supply Chain Management
+-1
+N/A
+
+TWC
+JSST01
+SSSDP
+BHSN
+Bachelor of Health Science (Honours) – Major in Nursing
+-1
+N/A
+
+OUHK
+JSSU14
+SSSDP
+BFA (Hons) Animation VE
+Bachelor of Fine Arts with Honours in Animation and Visual Effects
+-1
+N/A
+
+OUHK
+JSSU40
+SSSDP
+BNursing (Hons) General
+Bachelor of Nursing with Honours in General Health Care
+-1
+N/A
+
+OUHK
+JSSU50
+SSSDP
+BNursing (Hons) Mental
+Bachelor of Nursing with Honours in Mental Health Care
+-1
+N/A
+
+OUHK
+JSSU60
+SSSDP
+BSc (Hons) Test & Cert
+Bachelor of Science with Honours in Testing and Certification
+-1
+N/A
+
+VTC-THEi
+JSSV01
+SSSDP
+BA(FD)
+Bachelor of Arts (Honours) in Fashion Design
+-1
+N/A
+
+VTC-THEi
+JSSV02
+SSSDP
+BA(PD)
+Bachelor of Arts (Honours) in Product Design
+-1
+N/A
+
+VTC-THEi
+JSSV03
+SSSDP
+BA(LA)
+Bachelor of Arts (Honours) in Landscape Architecture
+-1
+N/A
+
+VTC-THEi
+JSSV04
+SSSDP
+BA(CAM)
+Bachelor of Arts (Honours) in Culinary Arts and Management
+-1
+N/A
+
+VTC-THEi
+JSSV05
+SSSDP
+BEng(CE)
+Bachelor of Engineering (Honours) in Civil Engineering
+-1
+N/A
+
+VTC-THEi
+JSSV06
+SSSDP
+BEng(EEM)
+Bachelor of Engineering (Honours) in Environmental Engineering and Management
+-1
+N/A
+
+VTC-THEi
+JSSV07
+SSSDP
+BA(HLM)
+Bachelor of Arts (Honours) in Horticulture and Landscape Management
+-1
+N/A
+
