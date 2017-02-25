@@ -1,50 +1,48 @@
-{* = extended } 
-Const F1=#59;    Shift_F1=#84;    Ctrl_F1=#94;    Alt_F1=#104; 
-      F2=#60;    Shift_F2=#85;    Ctrl_F2=#95;    Alt_F2=#105; 
-      F3=#61;    Shift_F3=#86;    Ctrl_F3=#96;    Alt_F3=#106; 
-      F4=#62;    Shift_F4=#87;    Ctrl_F4=#97;    Alt_F4=#107; 
-      F5=#63;    Shift_F5=#88;    Ctrl_F5=#98;    Alt_F5=#108; 
-      F6=#64;    Shift_F6=#89;    Ctrl_F6=#99;    Alt_F6=#109; 
-      F7=#65;    Shift_F7=#90;    Ctrl_F7=#100;   Alt_F7=#110; 
-      F8=#66;    Shift_F8=#91;    Ctrl_F8=#101;   Alt_F8=#111; 
-      F9=#67;    Shift_F9=#92;    Ctrl_F9=#102;   Alt_F9=#112; 
-      F10=#68;   Shift_F10=#93;   Ctrl_F10=#103;  Alt_F10=#113; 
-      F11=#133;  Shift_F11=#135;  Ctrl_F11=#137;  Alt_F11=#139;  {****} 
-      F12=#134;  Shift_F12=#136;  Ctrl_F12=#138;  Alt_F12=#140;  {****} 
-      Alt_1=#120;     Alt_2=#121;     Alt_3=#122;   Alt_4=#123; 
-      Alt_5=#124;     Alt_6=#125;     Alt_7=#126;   Alt_8=#127; 
-      Alt_9=#128;     Alt_0=#129; 
-      Alt_A=#30;      Alt_B=#48;      Alt_C=#46;     Alt_D=#32; 
-      Alt_E=#18;      Alt_F=#33;      Alt_G=#34;     Alt_H=#35; 
-      Alt_I=#23;      Alt_J=#36;      Alt_K=#37;     Alt_L=#38; 
-      Alt_M=#50;      Alt_N=#49;      Alt_O=#24;     Alt_P=#25; 
-      Alt_Q=#16;      Alt_R=#19;      Alt_S=#31;     Alt_T=#20; 
-      Alt_U=#22;      Alt_V=#47;      Alt_W=#17;     Alt_X=#45; 
-      Alt_Y=#21;      Alt_Z=#44; 
-      Shift_Tab=#15; 
-      Ctrl_tab=#148;  {*} 
-      Alt_tab=#165;   {*} 
-      Alt_Esc=#1;     {*} 
-      alt_BS=#14;     {*} 
-      Home=#71; 
-      Up=#72; 
-      PgUp=#73; 
-      Left=#75; 
-      Right=#77; 
-      End_=#79;    { Note the underscore as End is a reserved word } 
-      Down=#80; 
-      PgDn=#81; 
-      Ins=#82; 
-      Del=#83; 
-      Ctrl_PrtSc=#114; 
-      Ctrl_Left=#115; 
-      Ctrl_Right=#116; 
-      Ctrl_End=#117; 
-      Ctrl_PgDn=#118; 
-      Ctrl_Home=#119; 
-      Ctrl_PgUp=#132; 
+# Const
 
+*{! = extended }*
 
+|       |              |             |            |
+|:----: | :----------: | :---------: | :---------:|
+F1=#59 | Shift_F1=#84 | Ctrl_F1=#94 | Alt_F1=#104
+F2=#60 | Shift_F2=#85 | Ctrl_F2=#95 | Alt_F2=#105
+F3=#61 | Shift_F3=#86 | Ctrl_F3=#96 | Alt_F3=#106
+F4=#62 | Shift_F4=#87 | Ctrl_F4=#97 | Alt_F4=#107
+F5=#63 | Shift_F5=#88 | Ctrl_F5=#98 | Alt_F5=#108
+F6=#64 | Shift_F6=#89 | Ctrl_F6=#99 | Alt_F6=#109
+F7=#65 | Shift_F7=#90 | Ctrl_F7=#100 | Alt_F7=#110
+F8=#66 | Shift_F8=#91 | Ctrl_F8=#101 | Alt_F8=#111 
+F9=#67 | Shift_F9=#92 | Ctrl_F9=#102 | Alt_F9=#112
+F10=#68 | Shift_F10=#93 | Ctrl_F10=#103 | Alt_F10=#113
+F11=#133 | Shift_F11=#135 | Ctrl_F11=#137 | Alt_F11=#139 **{!}**
+F12=#134 | Shift_F12=#136 | Ctrl_F12=#138 | Alt_F12=#140 **{!}**
+
+|       |              |             |            |
+|:----: | :----------: | :---------: | :---------:|
+Alt_1=#120 | Alt_2=#121 | Alt_3=#122 | Alt_4=#123
+Alt_5=#124 | Alt_6=#125 | Alt_7=#126 | Alt_8=#127
+Alt_9=#128 | Alt_0=#129 |
+
+|       |              |             |            |
+|:----: | :----------: | :---------: | :---------:|
+Alt_A=#30 | Alt_B=#48 | Alt_C=#46 | Alt_D=#32
+Alt_E=#18 | Alt_F=#33 | Alt_G=#34 | Alt_H=#35
+Alt_I=#23 | Alt_J=#36 | Alt_K=#37 | Alt_L=#38
+Alt_M=#50 | Alt_N=#49 | Alt_O=#24 | Alt_P=#25
+Alt_Q=#16 | Alt_R=#19 | Alt_S=#31 | Alt_T=#20
+Alt_U=#22 | Alt_V=#47 | Alt_W=#17 | Alt_X=#45
+Alt_Y=#21 | Alt_Z=#44
+
+|       |              |             |            |
+|:----: | :----------: | :---------: | :---------:|
+Shift_Tab=#15 | Ctrl_tab=#148 **{!}** | Alt_tab=#165 **{!}** | Alt_Esc=#1 **{!}** 
+alt_BS=#14 **{!}** | Home=#71 | Up=#72 | PgUp=#73
+Left=#75 | Right=#77 | End_=#79 **Note the underscore as End is a reserved word** | Down=#80
+PgDn=#81 | Ins=#82 | Del=#83 | Ctrl_PrtSc=#114
+Ctrl_Left=#115 | Ctrl_Right=#116 | Ctrl_End=#117 | Ctrl_PgDn=#118 
+Ctrl_Home=#119 | Ctrl_PgUp=#132 
+
+```
 ASCII
 ---------------------------------------------------------------
 Dec	Hex	Binary	ASCII codes	Name
@@ -57,12 +55,12 @@ Dec	Hex	Binary	ASCII codes	Name
     5	  $05	  %00000101  	  ENQ	  Enquiry  
     6	  $06	  %00000110  	  ACK	  Acknowledgment  
     7	  $07	  %00000111  	  BEL	  Bell
-    8	  $08	  %00001000  	  BS   	  Backspace  
-    9	  $09	  %00001001  	  HT   	  Horizontal tab  
-   10	  $0A	  %00001010  	  LF   	  Line feed  
-   11	  $0B	  %00001011  	  VT   	  Vertical tab  
+    8	  $08	  %00001000  	  BS   	Backspace  
+    9	  $09	  %00001001  	  HT   	Horizontal tab  
+   10	  $0A	  %00001010  	  LF   	Line feed  
+   11	  $0B	  %00001011  	  VT   	Vertical tab  
    12	  $0C	  %00001100  	  FF	  Form feed
-   13	  $0D	  %00001101  	  CR   	  Carriage return  
+   13	  $0D	  %00001101  	  CR   	Carriage return  
    14	  $0E	  %00001110  	  SO	  Shift out
    15	  $0F	  %00001111  	  SI	  Shift in
    16	  $10	  %00010000  	  DLE	  Data link escape  
@@ -81,13 +79,13 @@ Dec	Hex	Binary	ASCII codes	Name
    29	  $1D	  %00011101  	  GS	  Group separator
    30	  $1E	  %00011110  	  RS	  Record separator
    31	  $1F	  %00011111  	  US	  Unit separator
-   32	  $20	  %00100000  	   	  Space
-   33	  $21	  %00100001  	   !	  Exclamation mark  
-   34	  $22	  %00100010  	  "	  Quotation mark  
-   35	  $23	  %00100011  	  #	  Number sign  
-   36	  $24	  %00100100  	  $	  Dollar sign  
-   37	  $25	  %00100101  	   %	  Percent sign  
-   38	  $26	  %00100110  	  &	  Ampersand  
+   32	  $20	  %00100000  	   	    Space
+   33	  $21	  %00100001  	  !	    Exclamation mark  
+   34	  $22	  %00100010  	  "	    Quotation mark  
+   35	  $23	  %00100011  	  #	    Number sign  
+   36	  $24	  %00100100  	  $	    Dollar sign  
+   37	  $25	  %00100101  	  %	    Percent sign  
+   38	  $26	  %00100110  	  &	    Ampersand  
    39	  #127'a$27	  %00100111  	  '	  Single quotation mark
    40	  $28	  %00101000  	  (	  Left parenthesis  
    41	  $29	  %00101001  	  )	  Right parenthesis  
@@ -107,12 +105,12 @@ Dec	Hex	Binary	ASCII codes	Name
    55	  $37	  %00110111  	  7	
    56	  $38	  %00111000  	  8	
    57	  $39	  %00111001  	  9	 
-   58	  $3A	  %00111010  	   :	  Colon
+   58	  $3A	  %00111010  	  :	  Colon
    59	  $3B	  %00111011  	  ;	  Semicolon
    60	  $3C	  %00111100  	  <	  Less than
    61	  $3D	  %00111101  	  =	  Equal
    62	  $3E	  %00111110  	  >	  Greater than  
-   63	  $3F	  %00111111  	   ?	  Question mark  
+   63	  $3F	  %00111111  	  ?	  Question mark  
    64	  $40	  %01000000  	  @	  AT sign
    65	  $41	  %01000001  	  A	 
    66	  $42	  %01000010  	  B	 
@@ -177,3 +175,4 @@ Dec	Hex	Binary	ASCII codes	Name
   125	  $7D	  %01111101  	  }	  Right curly bracket  
   126	  $7E	  %01111110  	  ~	  Tilde
   127	  $7F	  %01111111  	  Del	  Delete
+  ```
